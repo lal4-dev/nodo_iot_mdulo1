@@ -1,0 +1,4 @@
+//aca van las librerias que tengo que poner en la pagina de wokwi
+
+DHT sensor library
+ESP32Servo
